@@ -362,6 +362,7 @@
       matchPackageNames: [
         '/.*elasticsearch.*/',
       ],
+      versioning: 'semver',
       allowedVersions: '~8.17.0',
     },
     // Limit alpha chart version to alpha tags only.
