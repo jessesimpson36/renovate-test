@@ -129,12 +129,6 @@
         'charts/camunda-platform-8.7/Chart.yaml',
         'charts/camunda-platform-8.7/values*.yaml',
       ],
-      matchUpdateTypes: [
-        'patch',
-        'pin',
-        'digest',
-        'prerelease',
-      ],
       versioning: 'semver',
     },
     {
