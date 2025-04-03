@@ -135,6 +135,7 @@
         'digest',
         'prerelease',
       ],
+      versioning: 'semver',
     },
     {
       groupName: 'camunda-platform-8.8',
